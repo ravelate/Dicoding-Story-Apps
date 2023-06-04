@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FirstSubmission</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="copyright">\@Copyright 2022</string>
+    <string name="title_login_page">Selamat datang Pengguna!</string>
+    <string name="message_login_page">Masukkan dulu datamu ya</string>
+    <string name="login">Masuk</string>
+    <string name="donthave">Belum memiliki akun?</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="retry">Coba lagi</string>
+    <string name="alreadyhave">Sudah memiliki akun?</string>
+    <string name="selamat_datang">Selamat Datang,</string>
+    <string name="user_id">User ID</string>
+    <string name="token">Token</string>
+    <string name="logout">Keluar</string>
+    <string name="camera_x">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Upload</string>
+    <string name="description">Description</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="not_permitted">Tidak mendapatkan permission.</string>
+    <string name="choose_pic">Pilihlah Gambar</string>
+    <string name="enter_image_first">Silakan masukkan berkas gambar terlebih dahulu.</string>
+    <string name="cant_open_camera">Gagal memunculkan kamera.</string>
+    <string name="cant_capture">Gagal mengambil gambar.</string>
+    <string name="invalid_email">Email Invalid</string>
+    <string name="field_cant_empty">field tidak boleh kosong</string>
+    <string name="six_chara_password">Password harus lebih dari 6 character</string>
+
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="normal_type">Normal</string>
+    <string name="satellite_type">Satelit</string>
+    <string name="terrain_type">Terrain</string>
+    <string name="hybrid_type">Hybrid</string>
+</resources>
